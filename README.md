@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0074-search-a-2d-matrix) |
+| [0875-koko-eating-bananas](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0074-search-a-2d-matrix) |
+| [0875-koko-eating-bananas](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
