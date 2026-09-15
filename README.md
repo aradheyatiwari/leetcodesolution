@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0875-koko-eating-bananas) |
+| [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
+| [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
