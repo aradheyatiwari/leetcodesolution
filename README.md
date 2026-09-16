@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0055-jump-game) |
 ## String
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
