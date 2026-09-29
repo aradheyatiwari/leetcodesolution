@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0384-shuffle-an-array) |
 ## Recursion
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
