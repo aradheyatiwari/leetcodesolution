@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0384-shuffle-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0384-shuffle-an-array) |
+| [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
