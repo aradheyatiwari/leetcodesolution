@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
@@ -185,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
