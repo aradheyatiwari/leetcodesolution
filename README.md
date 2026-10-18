@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0384-shuffle-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0384-shuffle-an-array) |
 | [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
 | [0384-shuffle-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0384-shuffle-an-array) |
 ## Recursion
 |  |
@@ -189,4 +191,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
