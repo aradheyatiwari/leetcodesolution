@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
 | [0384-shuffle-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0384-shuffle-an-array) |
 | [2235-add-two-integers](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
