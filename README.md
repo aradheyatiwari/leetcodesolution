@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
