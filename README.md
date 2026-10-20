@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 | [1528-shuffle-string](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1528-shuffle-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Quicksort
 |  |
 | ------- |
