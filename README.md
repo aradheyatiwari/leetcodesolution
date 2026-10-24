@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
 | [0384-shuffle-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0384-shuffle-an-array) |
 | [2235-add-two-integers](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2769-find-the-maximum-achievable-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0125-valid-palindrome) |
 | [1528-shuffle-string](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
