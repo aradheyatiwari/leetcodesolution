@@ -1,0 +1,18 @@
+class Solution {
+public:
+    bool checkPerfectNumber(int num) {
+        if(num<=1){
+            return false;
+        }
+        int total_sum=1;
+        for(int i = 2;i*i<=num;++i){
+            if(num %i == 0){
+                total_sum += i;
+                if(i * i != num){
+                    total_sum += num/i;
+                }
+            }
+        }
+        return total_sum == num;
+    }
+};
