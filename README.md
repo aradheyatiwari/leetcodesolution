@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0204-count-primes) |
 | [0384-shuffle-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0384-shuffle-an-array) |
 | [0507-perfect-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0507-perfect-number) |
+| [1486-xor-operation-in-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2469-convert-the-temperature) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
+| [1486-xor-operation-in-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1486-xor-operation-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
