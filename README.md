@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0189-rotate-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
