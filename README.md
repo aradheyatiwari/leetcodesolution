@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1122-relative-sort-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1313-decompress-run-length-encoded-list) |
 | [1470-shuffle-the-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0169-majority-element) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1122-relative-sort-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -165,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1122-relative-sort-array) |
 ## Trie
 |  |
 | ------- |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/aradheyatiwari/leetcodesolution/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1122-relative-sort-array) |
 ## Enumeration
 |  |
 | ------- |
