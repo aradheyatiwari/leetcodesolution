@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2769-find-the-maximum-achievable-number) |
+| [3360-stone-removal-game](https://github.com/aradheyatiwari/leetcodesolution/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aradheyatiwari/leetcodesolution/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aradheyatiwari/leetcodesolution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3360-stone-removal-game](https://github.com/aradheyatiwari/leetcodesolution/tree/master/3360-stone-removal-game) |
 ## Quicksort
 |  |
 | ------- |
